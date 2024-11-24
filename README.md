@@ -1,3 +1,3 @@
 # Mobile Sales Data
-##Project objecttive
+## Project Objecttive
 The stoe want to create a sales report
