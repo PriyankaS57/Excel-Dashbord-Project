@@ -1,6 +1,6 @@
 # Mobile Sales Data
 ## Project Objecttive
-The stoe want to create a sales report
+The store wants to create Annual sales Report
 - <a href="https://github.com/PriyankaS57/Excel-Dashbord-Project/commit/364587a15595c81f4f320744f5063eeb5a0e576d">Dataset</a>
 ## Questions (KPIs):
 . What is the total revenue generated in the dataset?
